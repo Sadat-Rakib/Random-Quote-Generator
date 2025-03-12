@@ -10,7 +10,7 @@ A cool, simple, and motivating quote generator that serves you random quotes eve
 ✅ Responsive Design – Works perfectly on desktop & mobile!
 
 🛠 Built With
-HTML & CSS – For structure & style.
+HTML & CSS – For structure & style. (Did inline styling)
 JavaScript – To fetch and display quotes dynamically.
 
 📜 License
