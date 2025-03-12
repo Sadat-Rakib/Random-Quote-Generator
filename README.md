@@ -1,7 +1,7 @@
 # Random-Quote-Generator
 
 ✨ InspireME – Random Quote Generator 🎭
-A cool, simple, and fun quote generator that serves you random quotes every time you hit the button! Whether you need motivation, wisdom, or a good laugh, InspireMe has got you covered.
+A cool, simple, and motivating quote generator that serves you random quotes every time you hit the button! Whether you need motivation, or wisdom, InspireME has got you covered.
 
 🚀 Features
 ✅ Random Quotes – Get a fresh quote with every click!
