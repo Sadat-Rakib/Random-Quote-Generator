@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Random Quote Generator</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-image: url("Background-Image.jpg");
+            background-size: cover; /* cover ensures the image fully covers the screen */
+            background-repeat: no-repeat; /* no-repeat ensures the image is not repeated */
+            background-position: center; /* The center helps to center the image in the website */
+            background-attachment: fixed; /* Fixed allows to keep the background fixed while scrolling */
+            image-rendering: -webkit-optimize-contrast; /* This helps to enhance the sharpness for WebKit browsers */
+            image-rendering: pixelated; 
+        }        
+        h1 {
+            color: #ff0606;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #217e43;
+        }
+
+        #quote {
+            font-size: 24px;
+            color: #ff0000;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Random Quote Generator</h1>
+    <p id="quote"></p>
+    <button onclick="generateQuote()">Generate Quote</button>
+    <script src="Random-Quote-Generator-logic.js"></script>
+</body>
+
+</html>
+
+<!--The HTML file is simple. It contains a heading, a paragraph element with an ID of quote , a button element, and a script
+tag that links to the JavaScript file.-->
+
+<!--Used inline styling as the html file is simple and honestly felt like it does not require a separate css file.-->
